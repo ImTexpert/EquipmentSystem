@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Codes/Inventory/EquipmentSystem/Content/Core/Blueprints/Inventory/BP_Inventory.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/__ExternalActors__/Level1/2/7F/FJS9KJFFKT4GU1KBGDXVUX.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/FirstPerson/Input/Actions/IA_ItemSelect.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/Core/Blueprints/Inventory/S_ItemStruct.uasset",
+				"D:/Codes/Inventory/EquipmentSystem/Content/Core/Blueprints/Inventory/DT_Items.uasset",
 				"D:/Codes/Inventory/InventorySystem/Content/FirstPerson/Blueprints/BP_GMB.uasset",
 				"D:/Codes/Inventory/InventorySystem/Content/Level1_HLOD0_Instancing.uasset",
 				"D:/Codes/Inventory/InventorySystem/Content/__ExternalActors__/Level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG.uasset",
